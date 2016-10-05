@@ -4,9 +4,9 @@ Source code for PC software provided (AxeView), requires VB.NET 2008 and inclusi
 Note that in VB source code, RTS and DTR lines of Serial Port are set to True, since Arduino requires them for proper communication. If you experience problems or want to use a board different than Arduino, try to disable DTR and RTS lines in the source.
 
 **Warning**
-* For using I2C with ADXL345, CS line must be pulled to high level.
+* ADXL345 works @ 3.3V!
+* For using ADXL345 in I2C mode, CS line must be pulled to high level
 * Remember to add 2 4K7 pull-up resistors on SDA and SCL lines
-
 
 ![application screenshot](https://github.com/Cyb3rn0id/ADXL345_test/blob/master/screenshot.png)
 
