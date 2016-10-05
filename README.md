@@ -5,6 +5,8 @@ Source code for PC software provided, requires VB.NET 2008 and inclusion of ZedG
 For using I2C with ADXL345, CS line must be pulled to high level.
 Remember to add 2 4K7 pull-up resistors on SDA and SCL lines
 
+![application screenshot](https://github.com/Cyb3rn0id/ADXL345_test/blob/master/screenshot.png)
+
 [link to ADXL345 breakout board](https://www.sparkfun.com/products/9836)
 
 [link to hookup guide](https://learn.sparkfun.com/tutorials/adxl345-hookup-guide?_ga=1.9343222.255659784.1474484618)
