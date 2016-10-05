@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GMultiplier>0.004</GMultiplier>
+  <MaxGValue>2</MaxGValue>
+  <MaxSamples>100</MaxSamples>
+  <ComPort>COM36</ComPort>
+  <BaudRate>115200</BaudRate>
+</Settings>
