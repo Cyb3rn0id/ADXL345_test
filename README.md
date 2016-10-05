@@ -7,6 +7,6 @@ Remember to add 2 4K7 pull-up resistors on SDA and SCL lines
 
 ![application screenshot](https://github.com/Cyb3rn0id/ADXL345_test/blob/master/screenshot.png)
 
-* [link to ADXL345 breakout board](https://www.sparkfun.com/products/9836)
-* [link to hookup guide](https://learn.sparkfun.com/tutorials/adxl345-hookup-guide?_ga=1.9343222.255659784.1474484618)
-* [link to a video of an older version of AxeView](https://www.youtube.com/watch?v=DYrT9s_6ovc)
+* [ADXL345 breakout board](https://www.sparkfun.com/products/9836)
+* [Hookup guide](https://learn.sparkfun.com/tutorials/adxl345-hookup-guide?_ga=1.9343222.255659784.1474484618)
+* [Video of an older version of AxeView](https://www.youtube.com/watch?v=DYrT9s_6ovc)
