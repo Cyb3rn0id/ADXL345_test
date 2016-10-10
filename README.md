@@ -3,10 +3,11 @@ Firmware and software for testing an ADXL345 accelerometer with Arduino and Visu
 Source code for PC software provided (AxeView), requires VB.NET 2008 and inclusion of ZedGraph DLL in the IDE.
 Note that in VB source code, RTS and DTR lines of Serial Port are set to True, since Arduino requires them for proper communication. If you experience problems or want to use a board different than Arduino, try to disable DTR and RTS lines in the source.
 
-**Warning**
+**Warnings !**
 * ADXL345 works @ 3.3V!
 * For using ADXL345 in I2C mode, CS line must be pulled to high level
 * Remember to add 2 4K7 pull-up resistors on SDA and SCL lines
+* If you want to edit the code, remember to include ZedGraph DLL in your ide
 
 ![application screenshot](https://github.com/Cyb3rn0id/ADXL345_test/blob/master/screenshot.png)
 
